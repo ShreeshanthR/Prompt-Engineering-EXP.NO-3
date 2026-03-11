@@ -102,4 +102,5 @@ The brain of the computer is called the _____.
 
 
 RESULT: 
+
 The prompts for the following prompt types for 2 different scenarios of Each type is given sucessfully.
