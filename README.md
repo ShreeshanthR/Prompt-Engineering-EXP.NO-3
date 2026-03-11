@@ -58,15 +58,11 @@ Describe the working principle of a solar panel.
 
 2. Tabular Format Prompting
 
-(Requesting information in table format)
+| Example | Scenario   | Tabular Format Prompt                                                                                                                                         |
+| ------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | Science    | Create a table comparing **Newton’s First Law, Second Law, and Third Law** with columns for *Law Name, Definition, Formula, and Example*.                     |
+| 2       | Technology | Present the differences between **Python, Java, and C++** in a table with columns for *Programming Language, Difficulty Level, Common Uses, and Performance*. |
 
-Example 1 – Science
-
-Compare Newton’s First Law, Second Law, and Third Law in a table including definition and example.
-
-Example 2 – Technology
-
-Create a table comparing Python, Java, and C++ based on difficulty, uses, and performance.
 
 3. Preceding Question Prompting
 
